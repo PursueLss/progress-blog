@@ -1,2 +1,1 @@
-# First project
-a student of computer science
+学习仓库
